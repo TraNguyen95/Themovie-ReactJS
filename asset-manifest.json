@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Themovie-ReactJS/static/css/main.3be93f65.chunk.css",
+    "main.js": "/Themovie-ReactJS/static/js/main.1a8199b4.chunk.js",
+    "main.js.map": "/Themovie-ReactJS/static/js/main.1a8199b4.chunk.js.map",
+    "runtime-main.js": "/Themovie-ReactJS/static/js/runtime-main.459f920d.js",
+    "runtime-main.js.map": "/Themovie-ReactJS/static/js/runtime-main.459f920d.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/Themovie-ReactJS/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.a1f7fb45.chunk.js": "/Themovie-ReactJS/static/js/2.a1f7fb45.chunk.js",
+    "static/js/2.a1f7fb45.chunk.js.map": "/Themovie-ReactJS/static/js/2.a1f7fb45.chunk.js.map",
+    "index.html": "/Themovie-ReactJS/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/Themovie-ReactJS/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.3be93f65.chunk.css.map": "/Themovie-ReactJS/static/css/main.3be93f65.chunk.css.map",
+    "static/js/2.a1f7fb45.chunk.js.LICENSE.txt": "/Themovie-ReactJS/static/js/2.a1f7fb45.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/Themovie-ReactJS/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/Themovie-ReactJS/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/Themovie-ReactJS/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.459f920d.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.a1f7fb45.chunk.js",
+    "static/css/main.3be93f65.chunk.css",
+    "static/js/main.1a8199b4.chunk.js"
+  ]
+}
