@@ -10,6 +10,11 @@ const Routes = () => {
     return (
         <Switch>
             <Route
+                path='/Themovie-ReactJS'
+                exact
+                component={Home}
+            />
+            <Route
                 path='/:category/search/:keyword'
                 component={Catalog}
             />
@@ -21,13 +26,9 @@ const Routes = () => {
                 path='/:category'
                 component={Catalog}
             />
+            
             <Route
                 path='/'
-                exact
-                component={Home}
-            />
-            <Route
-                path='/Themovie-ReactJS'
                 exact
                 component={Home}
             />
