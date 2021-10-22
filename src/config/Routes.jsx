@@ -26,6 +26,11 @@ const Routes = () => {
                 exact
                 component={Home}
             />
+            <Route
+                path='/Themovie-ReactJS'
+                exact
+                component={Home}
+            />
         </Switch>
     );
 }
